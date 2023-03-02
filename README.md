@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=deafh&show_icons=true&theme=radical" alt="">
-  <img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deafh&layout=compact" alt="">
+  <img width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deafh&layout=compact" alt="">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
