@@ -6,12 +6,11 @@
 <h1> </h1>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=deafh&show_icons=true&theme=radical" alt="">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deafh&layout=compact" alt="">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deafh&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
