@@ -1,9 +1,9 @@
 ### Hello, my name is Dirceu Moroni 👋
 
 <h1> about me </h1>
-😄hobby - play pc games and program
-maper otibia
-Otadimin
+😄hobby - play pc games and program <br>
+maper otibia <br>
+Otadimin <br>
 Web Develop
 
 <h1> </h1>
