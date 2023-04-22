@@ -2,7 +2,7 @@
 
 <h1> about me </h1>
 😄hobby - play pc games and program <br>
-maper otibia <br>
+maper ot tibia <br>
 Otadimin <br>
 Web Develop
 
